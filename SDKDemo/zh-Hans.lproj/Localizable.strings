@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  SDKDemo
+
+  Created by bizconf on 16/9/7.
+  Copyright © 2016年 bizconf. All rights reserved.
+*/
+"hello" = "你好";
+"ok" = "确定";
+"Auth error code: 110" = "认证错误：110";
+
+"Mic Privacy Settings" = "测试000";
+
+"Camera Privacy Settings" = "测试111";
+
+"Dial Telephone Alert Message" = "测试222";
+
+"Photos Privacy Settings" = "测试333";
+"start" = "开始会议";
+"join" = "参加会议";
+"Setting" = "设置";
